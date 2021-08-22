@@ -5,4 +5,4 @@ metadata:
 namespace:
   name: helm-test-prod
 
-replicaCounts: 3
+replicaCount: 3
