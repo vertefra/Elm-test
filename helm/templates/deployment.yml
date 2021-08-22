@@ -4,7 +4,7 @@ metadata:
   labels:
     app: {{ .Values.metadata.app }}
     tag: {{ .Values.metadata.tag }}
-  name: nginx-alpine
+  name:  {{ .Values.metadata.name }}
   namespace: {{ .Values.metadata.namespace }}
 spec:
   replicas: {{ .Values.replicaCount }}
