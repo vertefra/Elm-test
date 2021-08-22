@@ -1,3 +1,7 @@
+metadata:
+  app: helm-test-prod
+  tag: helm
+
 namespace:
   name: helm-test-prod
 
