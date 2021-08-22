@@ -1,3 +1,6 @@
+metadata:
+  name: helm-test-stag
+
 namespace:
   name: helm-test-stag
 
