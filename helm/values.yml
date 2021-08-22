@@ -9,5 +9,5 @@ image:
   repository:
     ghcr.io
   tag: latest
-  name: vertefra/helm-test
+  name: helm-test-image
   image: ghcr.io/vertefra/helm-test
