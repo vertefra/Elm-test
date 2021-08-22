@@ -1,0 +1,11 @@
+apiVersion: v1
+name: Helm-test
+description: Create a Kubernetes Deployment
+keywords:
+- pyhton
+- Helm
+version: 0.0.1
+maintainers:
+- name: Vertemati Francesco
+  email: verte.fra@gmail.com
+  
