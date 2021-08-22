@@ -7,7 +7,7 @@ metadata:
   name: nginx-alpine
   namespace: {{ .Values.metadata.namespace }}
 spec:
-  replicas: {{ .values.replicaCount }}
+  replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
       app: {{ .Values.metadata.app}}
