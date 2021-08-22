@@ -4,7 +4,7 @@ on: [push]
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: elm-test
+  IMAGE_NAME: helm-test
   USERNAME: vertefra
 
 jobs:
