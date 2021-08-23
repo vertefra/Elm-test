@@ -1,4 +1,4 @@
-# Test Kubernetes deployemnts with Helm and ArgoCD.
+# Test Kubernetes deployements with Helm and ArgoCD.
 
 Goal for this project is a CI/CD pipeline that will deliver on two different Kubernetes clusters, simulating a staging environment and a production environment.
 
